@@ -16,7 +16,7 @@ The TravelGo application uses **three database systems**:
 
 **Configuration** (`.env`):
 ```bash
-SUPABASE_URL=https://fkplsxdobhtsbyylhihh.supabase.co
+SUPABASE_URL=https://<your_supabase_project_id>.supabase.co
 SUPABASE_ANON_KEY=your_anon_key_here
 SUPABASE_SERVICE_ROLE_KEY=your_service_role_key_here
 ```
